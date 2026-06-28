@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Hardware Engineer & IoT Developer
+### IoT & Embedded Systems Developer
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,html,css,linux,windows" alt="My Skills" />
