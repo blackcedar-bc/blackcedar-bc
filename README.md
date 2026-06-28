@@ -2,7 +2,7 @@
 
 # 🌊 Hi, I'm blackcedar
 
-<img src="lain.jpg" width="600" alt="my photo">
+<img src="lain.jpg" width="400" alt="my photo">
 
 ---
 
